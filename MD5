@@ -1,0 +1,12 @@
+00e57f1473d4a1341c7fa70a8ee974c4 *DESCRIPTION
+bb08af36e4536ff440dae1b826d23c56 *LICENSE
+0653c59125da152d6f815c8d6a4d9436 *NAMESPACE
+a61426237b365dfecfb3013fe59c3ff5 *R/data.R
+d07370f7a3f0d5c4cd327f4cc14f8aee *R/functions.R
+70d39b63542a647d1f96353a17cd57c5 *README.md
+b6a278449f64fb0157170a47f91dc826 *data/api_endpoints.rda
+6ace271b0879e0984ec2e30a0915b6b0 *inst/extdata/conditions
+d13818970f4cf1526a581715cbf3a66d *man/api_endpoints.Rd
+250b02137f076329a2d1b245fba216eb *man/get_ft.Rd
+84e5526b28633cd0dc279df757295207 *man/null_to_na.Rd
+049c7ae6463d1ce9d1bee026edc1aa9d *man/see_endpoints.Rd
